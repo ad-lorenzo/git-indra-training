@@ -2,6 +2,7 @@
 
 Git Training
 this is text line from akmal
+this is test line from aldous
 this is test line from wendyhoo
 
 hello
