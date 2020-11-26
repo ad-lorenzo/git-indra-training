@@ -3,6 +3,7 @@
     "age":"24",
     "isActive":true,
     "designation":"developer",
-    "address":"12,kl"
+    "address":"12,kl",
+    "hobbies":"singing"
     
 }
