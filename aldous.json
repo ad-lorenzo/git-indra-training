@@ -3,6 +3,5 @@
   "age": 24,
   "isActive": true,
   "designation": "developer",
-  "test": "test git add",
-  "newTest": "new"
+  "test": "test git add"
 }
